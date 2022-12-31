@@ -1,6 +1,6 @@
 <h1>Hi, I'm Haticetul Kubra! <br/><a href="https://github.com/HKoral">Salesforce Developer</a>
 
-<h2>👨‍💻 Salesforce Developer Projects:</h2>
+<h2>👩🏻‍💻 Salesforce Developer Projects:</h2>
 
 - <b>Triforcia Cruise Project</b>
   - []()
