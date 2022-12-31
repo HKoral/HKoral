@@ -20,7 +20,7 @@
 - [Salesforce Certified Sales Cloud Consultant](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=bi93YAam+WidYAxgrYXJSdevadmzqj63K0K8HNS3GVR1vQq+oAI2XNUPpJ+0c7fc)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🌐 Connect with me:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
